@@ -1,0 +1,38 @@
+# 🎬 Proyecto Final: ObtenerPelículas
+
+Un sistema móvil desarrollado en **FlutterFlow** orientado a la gestión y consulta de contenido cinematográfico. Este proyecto implementa integraciones modernas de bases de datos para la persistencia y renderizado dinámico de datos de manera eficiente.
+
+---
+
+## 🚀 Características del Proyecto
+- **Autenticación de Usuarios:** Control de acceso seguro mediante flujos de inicio de sesión y registro del lado del cliente.
+- **Persistencia con Supabase:** Arquitectura backend robusta utilizando PostgreSQL para el almacenamiento de datos en tiempo real, esquemas de bases de datos relacionales y consultas optimizadas desde la interfaz de FlutterFlow.
+- **Interfaz Limpia y Modular:** Uso de componentes nativos avanzados (Drawers, TextFields, validaciones visuales en tiempo real y ventanas emergentes de confirmación).
+
+---
+
+## 🛠️ Stack Tecnológico
+- **Frontend:** FlutterFlow & Dart
+- **Backend / Base de Datos:** Supabase (PostgreSQL)
+- **Repositorio y Control de Versiones:** GitHub
+
+---
+
+## ⚙️ Instrucciones de Instalación y Configuración
+
+Si deseas clonar y ejecutar este proyecto de forma local en tu entorno de desarrollo, sigue estos pasos:
+
+1. **Clonar el repositorio:**
+   ```bash
+   git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/tu-usuario/tu-repositorio.git)
+Rol: Alumno / Desarrollador
+
+Nombre: Carlos Eduardo De Alba Castillo
+
+Número de Control: 21380372
+
+Institución: TecNM (Campus Ciudad Victoria)
+
+Curso: Programación Web Avanzada / Desarrollo Móvil
+
+Proyecto: Entrega de Proyecto Final
